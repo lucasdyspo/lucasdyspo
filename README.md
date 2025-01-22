@@ -1,4 +1,4 @@
-<!-- Heading -->
+,<!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Lucas Dyspo</h3>
 
 <!-- Profile Views -->
@@ -22,11 +22,10 @@ I love sharing my knowledge with others, and I do that through content creation 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 😄 My Pronouns: She/Her   
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
-
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+- 💬 Ask me about: React, Django, Building Career In Tech, Content Creation.
+  
+- studying higher education at a federal educational institution 
 
 - ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
 
@@ -35,13 +34,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
-    <p>
-        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
-   </p>
+
 
  <!-- Conecct section: END -->
  
