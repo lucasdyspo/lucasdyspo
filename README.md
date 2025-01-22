@@ -16,7 +16,7 @@
 ✨ I'm a web developer focused on building robust and scalable solutions using Python/Django for the backend and React for the frontend, passionate about making the web accessible to everyone and i also like to ask for opinions on my study projects
 . 
 
-I haveexperience in web development, working on projects ranging from enterprise systems to SaaS platforms. I've tackled challenges such as API integrations, system scalability, and improving user experience.
+I have experience in web development, working on projects ranging from enterprise systems to SaaS platforms. I've tackled challenges such as API integrations, system scalability, and improving user experience.
 
 🎯 Objective:
 To help companies and projects achieve their technological goals using the best development practices while always learning something new along the way.
