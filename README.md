@@ -62,7 +62,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lucasdyspo&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
@@ -70,7 +70,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdyspo&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- THE END -->
