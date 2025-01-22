@@ -51,15 +51,14 @@ To help companies and projects achieve their technological goals using the best 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdyspo&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-**Expand to view**
 <details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+  <b>:zap: GitHub Profile Stat</b>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lucasdyspo&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lucasdyspo&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/lucasdyspo/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lucasdyspo&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
