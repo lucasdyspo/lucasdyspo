@@ -14,9 +14,13 @@
  <!-- About section -->
 
 ---
-✨ I'm a frontend engineer and a developer advocate at Cloudflare passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+✨ I'm a web developer focused on building robust and scalable solutions using Python/Django for the backend and React for the frontend, passionate about making the web accessible to everyone and i also like to ask for opinions on my study projects
+. 
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+I haveexperience in web development, working on projects ranging from enterprise systems to SaaS platforms. I've tackled challenges such as API integrations, system scalability, and improving user experience.
+
+🎯 Objective:
+To help companies and projects achieve their technological goals using the best development practices while always learning something new along the way.
 
 
 <!-- code gif-->
@@ -27,7 +31,7 @@ I love sharing my knowledge with others, and I do that through content creation 
   
 - studying higher education at a federal educational institution 
 
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+- ⚡ Fun fact: My first programming language was Delphi, reading an old book a long time ago, and I didn't use it much after that.
 
 <!-- About section: END -->
 
