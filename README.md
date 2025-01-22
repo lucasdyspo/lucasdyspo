@@ -3,8 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdyspo&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-ferreira-84a697220/">Linkedin</a> •
@@ -52,12 +51,12 @@ To help companies and projects achieve their technological goals using the best 
 </div>
 
 
-  <b>:zap: GitHub Profile Stat</b>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lucasdyspo&show_icons=true" />
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lucasdyspo/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lucasdyspo&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  
+  <b>:zap: GitHub Profile Stat</b>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lucasdyspo&show_icons=true" />
   <br/>
 </details>
 
